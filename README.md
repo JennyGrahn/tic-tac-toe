@@ -1,9 +1,60 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+Welcome to Tic tac Toe!
 
+This classic game is a simple way to test your strategic skills against an AI, also known as Computer. The first to three consecutive wins is the victor, enjoy!
+
+# Table of contents
+* User Experience (UX)
+ * Strategy Plane
+ * Scope Plane
+ * Structure Plane
+ * Skeleton Plane
+ * Surface Plane
+* Features
+* Technologies
+* Testing
+  * Test Results & Bugs
+* Test Results & Bugs
+* Deployment
+* Credits
+
+## User Experience Design
+
+### Strategy Plane
+
+**Site Goals**
+
+**User Stories**
+
+### Scope Plane
+
+**Features planned**
+
+### Structure Plane
+
+### Skeleton Plane
+
+### Surface Plane
+
+**Wireframes**
+
+**Wireframes / Site Design**
+
+**Design**
+**Color schemes**
+**Typography**
+**Graphics/Imagery**
+
+### Design changes
+
+## Features
+
+### All Pages
+
+**All Pages - Features - Details & Description**
+
+****
 ## Reminders
 
 * Your code must be placed in the `run.py` file
