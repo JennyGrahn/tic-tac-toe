@@ -1,10 +1,8 @@
-
-
-Welcome to Tic tac Toe!
+# Welcome to Tic tac Toe!
 
 This classic game is a simple way to test your strategic skills against an AI, also known as Computer. The first to three consecutive wins is the victor, enjoy!
 
-# Table of contents
+## Table of contents
 * User Experience (UX)
  * Strategy Plane
  * Scope Plane
@@ -30,6 +28,16 @@ This classic game is a simple way to test your strategic skills against an AI, a
 ### Scope Plane
 
 **Features planned**
+* A max width of 1750px
+* Responsiveness across all pages which means that the kayout changes
+* Small navbar up to the left
+* A rules page for users that don't know the premise of the game
+* An about page explaining the background to the game
+* The user can choose to play on three, four or five rows
+* A tracker taht shows how many times each player has won
+* Drag and drop markers on the board
+* A winners page saying congratulations
+* A play again button on the winners page
 
 ### Structure Plane
 
@@ -53,6 +61,13 @@ This classic game is a simple way to test your strategic skills against an AI, a
 ### All Pages
 
 **All Pages - Features - Details & Description**
+
+## Credits
+### Code
+### Images and text
+### README
+* The structure of this README was drawn from [emmahewsons "SWIMMÔN Wild Swimming Events Website"](https://github.com/emmahewson/mp3-swimmon?tab=readme-ov-file#Credits) and served as a reference my README
+### Acknowledgements 
 
 ****
 ## Reminders
