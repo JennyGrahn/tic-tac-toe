@@ -64,6 +64,7 @@ This classic game is a simple way to test your strategic skills against an AI, a
 
 ## Credits
 Pygame libary used (website)[https://www.pygame.org/docs/]
+tutorial on how to use https://www.youtube.com/watch?v=y9VG3Pztok8
 ### Code
 ### Images and text
 ### README
