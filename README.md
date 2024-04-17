@@ -63,6 +63,7 @@ This classic game is a simple way to test your strategic skills against an AI, a
 **All Pages - Features - Details & Description**
 
 ## Credits
+Pygame libary used (website)[https://www.pygame.org/docs/]
 ### Code
 ### Images and text
 ### README
